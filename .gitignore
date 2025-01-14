@@ -1,13 +1,22 @@
 *.dat
 *.keras
 *.h5
-Process Example/
+*.npy
+
+#Files
 combine_sequences.py
 combine_sequences_norm.py
 load_final_data.ipynb
 rename_files.py
 test.ipynb
 test.py
+X_flipped.npy
+X_rotation.npy
+y_flipped.npy
+y_rotation.npy
+
+#Folders
+Process Example/
 Learn/
 Frames/
 Checkpoints/
@@ -15,8 +24,9 @@ Final_Checkpoints/
 Final_Models/
 Further_improvements_Checkpoints/
 mobilenetV2_checkpoints/
+mobilenetV3_checkpoints/
 MoreCheckpoints/
 saved_model/
-SavedModel/
+SavedModels/
 
 
