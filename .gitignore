@@ -1,0 +1,22 @@
+*.dat
+*.keras
+*.h5
+Process Example/
+combine_sequences.py
+combine_sequences_norm.py
+load_final_data.ipynb
+rename_files.py
+test.ipynb
+test.py
+Learn/
+Frames/
+Checkpoints/
+Final_Checkpoints/
+Final_Models/
+Further_improvements_Checkpoints/
+mobilenetV2_checkpoints/
+MoreCheckpoints/
+saved_model/
+SavedModel/
+
+
