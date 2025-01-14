@@ -10,10 +10,6 @@ load_final_data.ipynb
 rename_files.py
 test.ipynb
 test.py
-X_flipped.npy
-X_rotation.npy
-y_flipped.npy
-y_rotation.npy
 
 #Folders
 Process Example/
